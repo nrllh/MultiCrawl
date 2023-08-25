@@ -1,0 +1,21 @@
+channels:
+    - conda-forge
+dependencies:
+    - black
+    - codecov
+    - pytest-cov
+    - ipython
+    - isort
+    - pip
+    - pre-commit
+    - pytest
+    - mypy
+    - pytest-asyncio
+    - sphinx
+    - recommonmark
+    - sphinx-markdown-tables
+    - pip:
+        - types-pyyaml
+        - types-redis
+        - types-tabulate
+

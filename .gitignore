@@ -1,0 +1,14 @@
+!.config/* 
+.vscode/* 
+firefox-bin/*
+__pycache__/*
+.vscode/* 
+profiles/chrome/*
+profiles/openwpm/*
+profiles/*
+datadir/* 
+Extension
+openwpm/*
+tmp
+openwpm/commands/ 
+tmp/
